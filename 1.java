@@ -6,12 +6,10 @@
   <p>Before the script...</p>
 
   <script>
-    alert( ' webhook !' );
+    alert( 'trying to connect webhook !' );
   </script>
   
-    <script>
-    alert( 'made some changes!' );
-  </script>
+   
 
   <p>...After the script.</p>
 
