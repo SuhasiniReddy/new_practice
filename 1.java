@@ -6,7 +6,7 @@
   <p>Before the script...</p>
 
   <script>
-    alert( 'trying to connect webhook !' );
+    alert( 'working on webhook !' );
   </script>
   
    
